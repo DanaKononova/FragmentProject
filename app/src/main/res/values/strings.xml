@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FragmentProject</string>
+    <string-array name="colors">
+        <item>red</item>
+        <item>pink</item>
+        <item>blue</item>
+        <item>yellow</item>
+        <item>green</item>
+    </string-array>
+</resources>
